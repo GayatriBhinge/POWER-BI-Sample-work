@@ -24,6 +24,7 @@ POWER BI | DAX | Data Visualisation
 ![App Screenshot](https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/blob/main/Dashboard.PNG)
 
 
+https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/assets/169748542/b8f32414-786a-4b50-a4ab-2dda3bf25e3c
 
 
 THANK YOU.
