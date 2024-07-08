@@ -23,9 +23,7 @@ POWER BI | DAX | Data Visualisation
 
 ![App Screenshot](https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/blob/main/Dashboard.PNG)
 
-# My Video
 
-git push origin gh-pages
 
 
 THANK YOU.
