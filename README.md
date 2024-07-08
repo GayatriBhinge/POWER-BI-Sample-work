@@ -19,6 +19,10 @@ Hello! I am a data analyst with expertise in collecting, cleaning, and analyzing
 ## 🛠 Skills
 POWER BI | DAX | Data Visualisation
 
+## Interactive Dashboard
+
+![App Screenshot](https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/blob/main/Dashboard.PNG)
+
 # My Video
 
 <video width="600" controls>
