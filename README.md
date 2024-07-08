@@ -23,11 +23,8 @@ POWER BI | DAX | Data Visualisation
 
 ![App Screenshot](https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/blob/main/Dashboard.PNG)
 
-# My Video
+# Interactive Dashboard | Sales Order
+https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/assets/169748542/beaf6519-e600-48b9-825f-a13e389c5547
 
-<video width="600" controls>
-  <source src="[path/to/your/video.mp4](https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/blob/main/SalesOrder_Dashboard_GayatriBhinge.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 THANK YOU.
