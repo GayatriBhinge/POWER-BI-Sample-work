@@ -25,9 +25,7 @@ POWER BI | DAX | Data Visualisation
 
 # My Video
 
-<video width="600" controls>
-  <source src="[path/to/your/video.mp4](https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/blob/main/SalesOrder_Dashboard_GayatriBhinge.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+git push origin gh-pages
+
 
 THANK YOU.
