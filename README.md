@@ -1,23 +1,13 @@
 
-# Dashboards | Power Bi Reporst Portfolio |
-
-Welcome to the Sales Dashboard project! In this project, I am creating an interactive and insightful Sales Dashboard using Power BI.
-
-We are using two datasets for this project:
-Orders.csv
-Details.csv
-
-
-
-## Acknowledgements
-Thank to Rishabh Mishra
+# Dashboards | Power Bi Reporst Portfolio 
 
 ## 🚀 About Me
-Hello! I am a data analyst with expertise in collecting, cleaning, and analyzing large datasets to uncover insights and support strategic decision-making. I utilize various tools and techniques to transform raw data into actionable intelligence, helping organizations optimize their performance and achieve their goals.
-
+Skilled Power BI Developer with 3 years of experience in designing, developing, and optimizing interactive dashboards and reports. Proficient in data modeling, transformation, and collaborating with QA teams via Jira for accurate, high-performance solutions. Experienced working with Lead Power BI Developers, Business Analysts, and Data Engineers to gather requirements and craft efficient queries that drive insights.
 
 ## 🛠 Skills
-POWER BI | DAX | Data Visualisation
+![image](https://github.com/user-attachments/assets/838e4f34-f63e-41d8-b19f-bd8a49db650d)
+
+![image](https://github.com/user-attachments/assets/14138160-7bd5-425f-b7d8-5685bef40f86)
 
 ## Interactive Dashboard
 ![1](https://github.com/user-attachments/assets/51d9d3b8-c81e-4b9f-be64-6752dcd8023b)
@@ -43,8 +33,6 @@ POWER BI | DAX | Data Visualisation
 ![11](https://github.com/user-attachments/assets/55ee20f2-db51-4a9c-883d-16e923581b9f)
 
 ![Screenshot 2024-10-21 110508 png7](https://github.com/user-attachments/assets/9a618edc-8a1c-4abe-8f11-43f948bb08c5)
-
-
 
 ![App Screenshot](https://github.com/GayatriBhinge/POWER-BI-SalesOrderData/blob/main/Dashboard.PNG)
 
