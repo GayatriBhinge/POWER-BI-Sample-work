@@ -1,4 +1,7 @@
 
+![b2](https://github.com/user-attachments/assets/4ab347eb-f5c0-436e-a590-272e91242f3e)
+
+
 # Dashboards | Power Bi Reporst Portfolio 
 
 ## 🚀 About Me
