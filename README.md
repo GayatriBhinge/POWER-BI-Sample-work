@@ -1,5 +1,5 @@
 
-# Sales Dashboard | Power Bi Tutorial
+# Dashboards | Power Bi Reporst Portfolio |
 
 Welcome to the Sales Dashboard project! In this project, I am creating an interactive and insightful Sales Dashboard using Power BI.
 
