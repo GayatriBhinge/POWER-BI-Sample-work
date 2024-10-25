@@ -1,8 +1,7 @@
-
 ![b2](https://github.com/user-attachments/assets/4ab347eb-f5c0-436e-a590-272e91242f3e)
 
-
 # Dashboards | Power Bi Reporst Portfolio 
+
 
 ## 🚀 About Me
 Skilled Power BI Developer with 3 years of experience in designing, developing, and optimizing interactive dashboards and reports. Proficient in data modeling, transformation, and collaborating with QA teams via Jira for accurate, high-performance solutions. Experienced working with Lead Power BI Developers, Business Analysts, and Data Engineers to gather requirements and craft efficient queries that drive insights.
